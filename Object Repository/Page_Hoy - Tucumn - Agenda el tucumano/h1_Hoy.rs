@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Hoy</name>
+   <tag></tag>
+   <elementGuidId>c6bc8359-0b15-4e48-af59-c9b04e6bb6d2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h1.section-title.title.titulo-tucu.section-tag</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;newmenu&quot;]/div/h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>65eefb09-d970-4ea0-84a8-d64e36938987</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>section-title title titulo-tucu section-tag</value>
+      <webElementGuid>3e20d9c4-4a23-400c-9829-1fd22b20f282</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hoy</value>
+      <webElementGuid>9eca4985-038a-4998-9af6-2401b729fbf9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;newmenu&quot;)/div[@class=&quot;sub-catagory&quot;]/h1[@class=&quot;section-title title titulo-tucu section-tag&quot;]</value>
+      <webElementGuid>fcb217e7-8fd6-4ffb-bf08-d63c54332ce6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='newmenu']/div/h1</value>
+      <webElementGuid>c8ff9eda-dd4b-4e30-b543-cae59d9fb027</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FINDE'])[2]/following::h1[1]</value>
+      <webElementGuid>9d3c8226-6dbc-4691-8b98-9e29a7535fab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MAÑANA'])[2]/following::h1[1]</value>
+      <webElementGuid>3538def4-6b7a-4a49-ac42-05ec0356d00d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='May'])[1]/preceding::h1[1]</value>
+      <webElementGuid>58dac29c-3a00-4c7b-b63e-8bc3e2ac97e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sábado'])[1]/preceding::h1[1]</value>
+      <webElementGuid>e39a64b5-9bf2-4efd-9dff-07ff7af70fef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Hoy']/parent::*</value>
+      <webElementGuid>cffbbf2f-a10f-49a8-8ace-3db12e300688</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>79496bdc-4185-4dc8-92a3-a87780cb6b60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Hoy' or . = 'Hoy')]</value>
+      <webElementGuid>8f912d93-aee9-4c4b-a4c9-54c88b0f95cd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

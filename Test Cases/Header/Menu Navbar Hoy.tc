@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Se probara el menu de navegacion HOY, de la agenda.</description>
+   <name>Menu Navbar Hoy</name>
+   <tag>Menu, Navbar, Hoy</tag>
+   <comment></comment>
+   <testCaseGuid>bc6f43bd-7927-49b8-a5ad-32d2488a5ab7</testCaseGuid>
+</TestCaseEntity>
