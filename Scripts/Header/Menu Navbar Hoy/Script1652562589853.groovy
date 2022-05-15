@@ -25,7 +25,7 @@ WebUI.navigateToUrl('https://agenda.eltucumano.com/')
 
 WebUI.click(findTestObject('Object Repository/Page_Agenda el tucumano  Eventos Tucumn - A_a4b9e3/a_HOY'))
 
-WebUI.verifyElementAttributeValue(findTestObject('Page_Hoy - Tucumn - Agenda el tucumano/h1_Hoy'), 'class', 'section-title title titulo-tucu section-tag', 
+WebUI.verifyElementAttributeValue(findTestObject('Page_Hoy - Tucumn - Agenda el tucumano/h1_Hoy'), 'id', 'section-title title titulo-tucu section-tag', 
     20)
 
 WebUI.verifyElementText(findTestObject('Page_Hoy - Tucumn - Agenda el tucumano/h1_Hoy'), 'hoy')
